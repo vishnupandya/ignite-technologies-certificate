@@ -1,5 +1,5 @@
 import certificatePng from "./assets/certificate.png";
-import vanshikaPdf from "./assets/vanshika_certificate.pdf";
+import vanshikaPdf from "./assets/certificate.pdf";
 import igniteLogo from "./assets/ignitelogo.png";
 
 const VanshikaCertificate = () => {
