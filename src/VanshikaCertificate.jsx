@@ -1,4 +1,4 @@
-import certificatePng from "./assets/certificate.png";
+import certificatePng from "./assets/certificate.jpg";
 import vanshikaPdf from "./assets/certificate.pdf";
 import igniteLogo from "./assets/ignitelogo.png";
 
